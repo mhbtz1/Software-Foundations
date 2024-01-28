@@ -1,0 +1,37 @@
+DIGEST b6e6a7740277b9bcbd4e87f6357c2fd5
+FLF.BasicsTest
+R70:75 Coq.Strings.String <> <> lib
+R101:106 LF.Basics <> <> lib
+ax 120:126 <> MISSING
+mod 143:147 <> Check
+R213:219 LF.BasicsTest <> MISSING defax
+R213:219 LF.BasicsTest <> MISSING defax
+R412:415 Coq.Init.Datatypes <> Some constr
+R412:415 Coq.Init.Datatypes <> Some constr
+R595:598 Coq.Init.Datatypes <> None constr
+R595:598 Coq.Init.Datatypes <> None constr
+R680:684 LF.BasicsTest Check <> mod
+R711:716 LF.Basics <> <> lib
+def 734:742 <> Unnamed_thm
+R739:742 Coq.Init.Logic <> True ind
+R880:890 LF.Basics <> test_nandb4 ex
+R909:911 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R894:898 LF.Basics <> nandb def
+R905:908 LF.Basics <> true constr
+R900:903 LF.Basics <> true constr
+R912:916 LF.Basics <> false constr
+R880:890 LF.Basics <> test_nandb4 ex
+R909:911 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R894:898 LF.Basics <> nandb def
+R905:908 LF.Basics <> true constr
+R900:903 LF.Basics <> true constr
+R912:916 LF.Basics <> false constr
+R968:978 LF.Basics <> test_nandb4 ex
+def 981:989 <> Unnamed_thm
+R986:989 Coq.Init.Logic <> True ind
+R1173:1175 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R1152:1156 LF.Basics <> andb3 def
+R1168:1172 LF.Basics <> false constr
+R1163:1166 LF.Basics <> true constr
+R1158:1161 LF.Basics <> true constr
+R1176:1180 LF.Basics <> false constr
