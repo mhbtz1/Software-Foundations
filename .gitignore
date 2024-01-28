@@ -1,4 +1,7 @@
 *.vo
 *.vok
 *.vos
-*.vo~
+*.v~
+*.glob
+*'#'*
+*.aux
